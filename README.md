@@ -5,7 +5,7 @@
 ### 2021138547 Kevin Salazar Valles
 
 ### Estado del proyecto: 5
-### Enlace del video: 
+### Enlace del video: [https://youtu.be/Idf9d9E4sBc]
 ## Objetivos alcanzados:
 
 #### Apariencia GUI 10 
